@@ -1,5 +1,11 @@
 ## Hi, I'm Fiona 👋
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiona868&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiona868&layout=compact)
+
 <!--
 **fiona868/fiona868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
